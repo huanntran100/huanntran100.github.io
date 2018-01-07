@@ -6,7 +6,7 @@
 huanntran100 at gmail dot com  
 
 ### About 
-Currently, I am independently studying the basics of reinforcement learning through online graduate courses, tutorials, papers, and blogs. I graduated in 2017 with a B.S. in Bioengineering: Bioengineering from the University of California, San Diego.   
+Currently, I am independently studying the basics of reinforcement learning (RL) through online graduate courses, tutorials, papers, and blogs. My interests include continuous control, hierarchical learning, and applications to human learning and decisionmaking. I graduated in 2017 with a B.S. in Bioengineering: Bioengineering from the University of California, San Diego.   
 
 For my senior design project, my team and I implemented Q-Learning and incremental feature dependency discovery (iFDD) on a simulated 2-jointed snake robot. As an immunology research assistant in the [Goldrath lab](https://goldrathlab.com/) for two years, I conducted immunofluorescent microscopy to visualize reporter lymphocytes in infected spleen and tumor tissue.   
 
@@ -14,11 +14,17 @@ I closed out my senior year by with a piano recital consisting of classical and 
 
 ### Projects 
    
-- **Q-Learning and Sparse iFDD on Swimmer** (2017 - Present): [[preliminary results]()] [[code]()] [[original paper](http://www.icml-2011.org/papers/473_icmlpaper.pdf)]  
+- **Q-Learning and Sparse iFDD on Swimmer** (2017 - Present):   
+[results] [code] [[initial implementation & troubleshooting notebook](http://nbviewer.jupyter.org/github/huanntran100/Learning-RL/blob/master/Bioengineering%20Senior%20Design/Q-Learning_and_IFDD_on_Swimmer-v1_Implementation_Notebook.ipynb)] [[original paper](http://www.icml-2011.org/papers/473_icmlpaper.pdf)] (in progress)  
 Rewrote senior design project in Python with some minor modifications to stabilize learning. _Python, Mujuco._      
-- **Senior Design: Building Locomotion Policies Using Online RL** (2016 - 2017): [[final report](http://nbviewer.jupyter.org/github/huanntran100/Miscellaneous-/blob/master/Group%2012%20Q-Learning%20and%20IFDD%20Final%20Report%20%281%29.pdf)] [[poster](http://nbviewer.jupyter.org/github/huanntran100/Miscellaneous-/blob/master/Group%2012%20Q-Learning%20and%20IFDD%20Final%20Poster%20%281%29.pdf)]  
-Implemented Q-learning + MIT's iFDD algorithm for 2-joint snake robot. **Advisor**: Professor Michael Yip. **Bioengineering Team Members**: Jared Buchanan (team lead), Donald Dean, Huan "Steven" Tran. _C#, Unity3D._   
-- **Visualizing HIF-reporters in Activated T-Cells** (2016 - 2017): [[mouse spleen](http://nbviewer.jupyter.org/github/huanntran100/Miscellaneous-/blob/master/Spleen%20Image.png)] [[mouse B16 tumor](http://nbviewer.jupyter.org/github/huanntran100/Miscellaneous-/blob/master/Tumor%20Image.png)] [[histology protocol](http://nbviewer.jupyter.org/github/huanntran100/Miscellaneous-/blob/master/Quick%20Histology%20Protocol.pdf)] _Special thanks to the Goldrath lab._ 
+- **Senior Design: Building Locomotion Policies Using Online RL** (2016 - 2017):   
+[[final report](http://nbviewer.jupyter.org/github/huanntran100/Miscellaneous-/blob/master/Group%2012%20Q-Learning%20and%20IFDD%20Final%20Report%20%281%29.pdf)] [[final presentation slides](http://nbviewer.jupyter.org/github/huanntran100/Miscellaneous-/blob/master/Group%2012%20Q-Learning%20and%20IFDD%20Final%20Presentation.pdf)] [[poster](http://nbviewer.jupyter.org/github/huanntran100/Miscellaneous-/blob/master/Group%2012%20Q-Learning%20and%20IFDD%20Final%20Poster%20%281%29.pdf)]  
+Implemented Q-learning and MIT's iFDD algorithm for 2-joint snake robot. _C#, Unity3D._    
+**Advisor**: Professor Michael Yip. **Team Members**: Jared Buchanan (team lead), Donald Dean, Huan "Steven" Tran. 
+- **Visualizing HIF-reporters in Activated T-Cells** (2016 - 2017):   
+[[mouse spleen](http://nbviewer.jupyter.org/github/huanntran100/Miscellaneous-/blob/master/Spleen%20Image.png)] [[mouse B16 tumor](http://nbviewer.jupyter.org/github/huanntran100/Miscellaneous-/blob/master/Tumor%20Image.png)] [[histology protocol](http://nbviewer.jupyter.org/github/huanntran100/Miscellaneous-/blob/master/Quick%20Histology%20Protocol.pdf)]  
+Wrote shortened version of established lab protocol for histology. 
+_Special thanks to the Goldrath lab._ 
 
 ### RL Coursework
 Documentation of RL coursework in order of completion. Links to the original blog posts, tutorials, course pages, and githubs are found at the top of each notebook. 
@@ -54,5 +60,5 @@ Some of what I write.
 Links go to favorite articles, videos, papers, and blogs.  
 
 _AI & RL_: [continuous control](http://proceedings.mlr.press/v48/duan16.pdf), [heirarchical learning](https://blog.openai.com/learning-a-hierarchy/), [modelling RL in nature](http://gershmanlab.webfactional.com/pubs/GershmanDaw17.pdf), [human learning and decision making](https://deepmind.com/research/publications/successor-representation-human-reinforcement-learning/).   
-_Music_: [Sergei Rachmaninoff](https://www.youtube.com/watch?v=QNRxHyZDU-Q), [John Williams](https://www.youtube.com/watch?v=HcZ9kQ1h-ZY), [Stevie Wonder](https://www.youtube.com/watch?v=ppLJAp2Tnwo), [Corinne Bailey Rae](https://www.youtube.com/watch?v=7gPD7kY1amE), [Ed Sheeran](https://www.youtube.com/watch?v=lp-EO5I60KA).
+_Music_: [Sergei Rachmaninoff](https://www.youtube.com/watch?v=QNRxHyZDU-Q), [John Williams](https://www.youtube.com/watch?v=HcZ9kQ1h-ZY), [Stevie Wonder](https://www.youtube.com/watch?v=ppLJAp2Tnwo), [Corinne Bailey Rae](https://www.youtube.com/watch?v=7gPD7kY1amE), [Ed Sheeran](https://www.youtube.com/watch?v=lp-EO5I60KA).  
 _General_: food, Star Wars, tacos, hiking, backpacking, piano, gym. 
