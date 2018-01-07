@@ -59,6 +59,6 @@ Some of what I write.
 ### Interests
 Links go to favorite articles, videos, papers, and blogs.  
 
-_AI & RL_: [continuous control](http://proceedings.mlr.press/v48/duan16.pdf), [heirarchical learning](https://blog.openai.com/learning-a-hierarchy/), [modelling RL in nature](http://gershmanlab.webfactional.com/pubs/GershmanDaw17.pdf), [human learning and decision making](https://deepmind.com/research/publications/successor-representation-human-reinforcement-learning/).   
+_AI & RL_: [continuous control](http://proceedings.mlr.press/v48/duan16.pdf), [hierarchical learning](https://blog.openai.com/learning-a-hierarchy/), [modelling RL in nature](http://gershmanlab.webfactional.com/pubs/GershmanDaw17.pdf), [human learning and decision making](https://deepmind.com/research/publications/successor-representation-human-reinforcement-learning/).   
 _Music_: [Sergei Rachmaninoff](https://www.youtube.com/watch?v=QNRxHyZDU-Q), [John Williams](https://www.youtube.com/watch?v=HcZ9kQ1h-ZY), [Stevie Wonder](https://www.youtube.com/watch?v=ppLJAp2Tnwo), [Corinne Bailey Rae](https://www.youtube.com/watch?v=7gPD7kY1amE), [Ed Sheeran](https://www.youtube.com/watch?v=lp-EO5I60KA).  
 _General_: food, Star Wars, tacos, hiking, backpacking, piano, gym. 
